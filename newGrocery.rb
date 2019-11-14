@@ -35,7 +35,8 @@ def userChoice
 
     elsif choice == "Exit" 
       @exit = true
-
+test = "Something new !!!"
+  
 
     # elsif choice == "-Banannas" 
     # @cart.destroy {grocery_item: "Banannas", price: 1.0}
